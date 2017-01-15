@@ -1,0 +1,33 @@
+C:\Users\local\Desktop\RadoslawSzokBiling\Biling\Biling\bin\Debug\Biling.exe.config
+C:\Users\local\Desktop\RadoslawSzokBiling\Biling\Biling\obj\Debug\Biling.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\RadoslawSzokBiling\Biling\Biling\obj\Debug\MainWindow.baml
+C:\Users\local\Desktop\RadoslawSzokBiling\Biling\Biling\obj\Debug\MainWindow.g.cs
+C:\Users\local\Desktop\RadoslawSzokBiling\Biling\Biling\obj\Debug\App.g.cs
+C:\Users\local\Desktop\RadoslawSzokBiling\Biling\Biling\obj\Debug\Biling_MarkupCompile.cache
+C:\Users\local\Desktop\RadoslawSzokBiling\Biling\Biling\obj\Debug\Biling.g.resources
+C:\Users\local\Desktop\RadoslawSzokBiling\Biling\Biling\obj\Debug\Biling.Properties.Resources.resources
+C:\Users\local\Desktop\RadoslawSzokBiling\Biling\Biling\obj\Debug\Biling.csproj.GenerateResource.Cache
+C:\Users\local\Desktop\RadoslawSzokBiling\Biling\Biling\bin\Debug\Biling.exe
+C:\Users\local\Desktop\RadoslawSzokBiling\Biling\Biling\bin\Debug\Biling.pdb
+C:\Users\local\Desktop\RadoslawSzokBiling\Biling\Biling\obj\Debug\Biling.exe
+C:\Users\local\Desktop\RadoslawSzokBiling\Biling\Biling\obj\Debug\Biling.pdb
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\bin\Debug\Biling.exe.config
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\obj\Debug\Biling.exe
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\obj\Debug\Biling.pdb
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\bin\Debug\Biling.exe
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\bin\Debug\Biling.pdb
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\bin\Debug\mscorlib.dll
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\bin\Debug\pl\mscorlib.resources.dll
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\bin\Debug\normidna.nlp
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\bin\Debug\normnfc.nlp
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\bin\Debug\normnfd.nlp
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\bin\Debug\normnfkc.nlp
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\bin\Debug\normnfkd.nlp
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\obj\Debug\MainWindow.baml
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\obj\Debug\MainWindow.g.cs
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\obj\Debug\App.g.cs
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\obj\Debug\Biling_MarkupCompile.cache
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\obj\Debug\Biling.g.resources
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\obj\Debug\Biling.Properties.Resources.resources
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\obj\Debug\Biling.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\Koło Programowanie\Kolokwium-master\RadoslawSzokBiling\Biling\Biling\obj\Debug\Biling.csproj.GenerateResource.Cache
